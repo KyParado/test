@@ -1,4 +1,3 @@
-```
    # CSDC105 Trends in Application Development
    
    Author : Kyle Randall T. Parado
@@ -10,5 +9,3 @@
    
    ## What software/application is very much needed in the world today?
    Apps/Software that could contribute to resolving health-related issues that an average person could have access to without going to a hospital.
-   
-   ```
